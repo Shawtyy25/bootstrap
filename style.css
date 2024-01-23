@@ -1,5 +1,4 @@
 *{
-
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -12,9 +11,8 @@ nav a:hover{
 #blogy{
     font-weight: bold;
 }
-=======
-    box-sizing: border-box;
-    margin: 0;
-}
 
 img{width: 100%;}
+nav{
+    margin-bottom: 100px;
+}
